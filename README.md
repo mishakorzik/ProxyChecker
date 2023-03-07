@@ -27,6 +27,8 @@ ProxyChecker can check a large number of proxies with great speed, supports prot
 **If you want to donate, click on the button**
 <a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-ProxyChecker-yellow?style=for-the-badge&logo=github"></a>
 
+---
+
 ## Find Me 
 [![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
 [![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/MishaKorzhikTelegram)
