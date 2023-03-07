@@ -12,8 +12,13 @@ be sure to install python and install the requests module via pip
 
 ### Manual installing
 ```bash
+#with git
 git clone https://github.com/mishakorzik/ProxyChecker
 cd ProxyChecker
+python3 checker.py
+
+#with wget
+wget "https://raw.githubusercontent.com/mishakorzik/ProxyChecker/main/checker.py"
 python3 checker.py
 ```
 ProxyChecker can check a large number of proxies with great speed, supports protocols: socks5, socks4 http
