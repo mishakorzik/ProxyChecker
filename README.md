@@ -13,19 +13,19 @@ be sure to install python and install the requests module via pip
 ### Manual installing
 ```bash
 #with git
-git clone https://github.com/mishakorzik/ProxyChecker
+git clone https://github.com/Syn2Much/ProxyChecker
 cd ProxyChecker
 python3 checker.py
 
 #with wget
-wget "https://raw.githubusercontent.com/mishakorzik/ProxyChecker/main/checker.py"
+wget "https://raw.githubusercontent.com/Syn2Much/ProxyChecker/main/checker.py"
 python3 checker.py
 ```
 ProxyChecker can check a large number of proxies with great speed, supports protocols: socks5, socks4, http
 
 ### Screenshot
 
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/ProxyChecker/main/Screenshot_2023-03-07-15-55-05-557_com.termux-edit.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/Syn2Much/ProxyChecker/main/Screenshot_2023-03-07-15-55-05-557_com.termux-edit.jpg"/>
 
 ### Donate
 **If you want to donate, click on the button**
@@ -35,6 +35,6 @@ ProxyChecker can check a large number of proxies with great speed, supports prot
 
 ## Find Me 
 [![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
-[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
+[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/Syn2Much)
 [![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 [![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
