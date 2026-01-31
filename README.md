@@ -21,6 +21,11 @@ python3 checker.py
 wget "https://raw.githubusercontent.com/Syn2Much/ProxyChecker/main/checker.py"
 python3 checker.py
 ```
+### Finding proxies to check
+```bash
+python3 scraper.py (Pulls 13k+ Fresh Proxies)
+then check with checker.py
+```
 ProxyChecker can check a large number of proxies with great speed, supports protocols: socks5, socks4, http
 
 ### Screenshot
